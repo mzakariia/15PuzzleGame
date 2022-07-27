@@ -1,0 +1,13 @@
+.cell {
+  width: 22%;
+  margin: auto;
+  padding: 1.5rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.filled {
+  color: whitesmoke;
+  background-color: #6a3ba8;
+  border-radius: 10%;
+}
